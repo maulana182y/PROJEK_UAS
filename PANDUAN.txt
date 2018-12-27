@@ -1,0 +1,14 @@
+cara penggunaan
+
+-aktifkan xampp (apache & mysql)
+-lalu buka browser
+- ketik di addresbar browser : localhost/latihan_cii/index.php/login/landing
+	- ketika sudah terbuka tampilan landing  klik tab register
+	 untuk mendaftarkan diri  menjadi member. lalu klik registrasi jika sudah.
+maka akan di alihkan ke tampilan login. saat ini anda tidak bisa login.
+
+lalu pada tampilan login hanya admin yang bisa masuk
+( admin@gmail.com PASS : admin)
+
+lalu di arahkan pada tampilan admin toko , klik data baru di sana terdapat data member yang baru melakukan register
+lalu klik konfirmasi untuk menyetujui . lalu di arahkan ke tampilan tabel member member 
